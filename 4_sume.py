@@ -1,6 +1,2 @@
-sume = float(input("say a natural number: "))
-number_2 = 1
-sume += number_2
-print ("the sume is" , (sume))
-
-
+num = int(input("say a natural number: "))
+print ("the sume is" , (num+1))
