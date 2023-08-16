@@ -17,7 +17,7 @@ todos = [
     ['Juanjo', DOMINGUEZ_OLIVER],
     ['Sonia', DOMINGUEZ_OLIVER],
     ['Teresa', DOMINGUEZ_OLIVER],
-    ['Victoria', DOMINGUEZ_OLIVER]
+    ['Vicky', DOMINGUEZ_OLIVER]
 ]
 
 def check(todos) -> bool:
